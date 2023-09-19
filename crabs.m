@@ -10,7 +10,7 @@ function crabs ()
 
  % The code consists of a single while loop which reads the keyboard and responds.
 
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     setup: define and initialize local variables         %%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%     setup: define and initialize local variables    %%%%%%%%%%%
 
   %initialize command and map dimensions and draw map
    cmd = "null";
